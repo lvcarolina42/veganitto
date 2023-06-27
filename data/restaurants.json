@@ -1,0 +1,61 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Uai de Minas",
+        "image": "https://www.pracadopapa.com.br/wp-content/uploads/2022/01/Melhores-Restaurantes-de-Belo-Horizonte.jpg",
+        "price": 2,
+        "description": "Restaurante localizado no centro de Belo Horizonte, com atendimento ótimo e pratos melhores ainda.",
+        "categories": [1, 3],
+        "address": "Rua das Margaridas, 110, Bairro Alvorada",
+        "rating": 3,
+        "verified": true,
+        "comments": [
+          {"author":"Marina Eva de Souza", "rating":"4.5", "comment":"Tudo perfeito, o restaurante é ótimo e o atendimento também."},
+          {"author":"João Pedro", "rating":"1.0", "comment":"Tive uma experiência ruim, o atendimento foi péssimo e a comida estava fria."},
+          {"author":"Carlos Eduardo", "rating":"3.5", "comment":"Achei o restaurante bom, mas o atendimento poderia ser melhor."}
+        ],
+        "menu": "menu_sample.pdf"
+    },
+    "2": {
+        "id": 2,
+        "name": "Casa do Norte",
+        "image": "https://www.pracadopapa.com.br/wp-content/uploads/2022/01/Melhores-Restaurantes-de-Belo-Horizonte.jpg",
+        "price": 3,
+        "description": "Restaurante localizado no centro de Belo Horizonte, com atendimento ótimo e pratos melhores ainda.",
+        "categories": [1, 2],
+        "address": "Rua das Margaridas, 110, Bairro Alvorada",
+        "rating": 2.3333,
+        "comments": [
+          {"author":"Cleber Silva", "rating":"2.5", "comment":"Não recebi o prato que pedi, mas o atendimento foi bom."},
+          {"author":"João Pedro", "rating":"1.0", "comment":"Tive uma experiência ruim, o atendimento foi péssimo e a comida estava fria."},
+          {"author":"Carlos Eduardo", "rating":"3.5", "comment":"Achei o restaurante bom, mas o atendimento poderia ser melhor."}
+        ],
+        "menu": "menu_sample.pdf"
+    },
+    "3": {
+        "id": 3,
+        "name": "Bom de Garfo",
+        "image": "https://www.pracadopapa.com.br/wp-content/uploads/2022/01/Melhores-Restaurantes-de-Belo-Horizonte.jpg",
+        "price": 1,
+        "description": "Restaurante localizado no centro de Belo Horizonte, com atendimento ótimo e pratos melhores ainda.",
+        "categories": [2, 4],
+        "address": "Rua das Margaridas, 110, Bairro Alvorada",
+        "rating": 1,
+        "comments": [
+          {"author":"João Pedro", "rating":"1.0", "comment":"Tive uma experiência ruim, o atendimento foi péssimo e a comida estava fria."}
+        ],
+        "menu": "menu_sample.pdf"
+    },
+    "4": {
+        "id": 4,
+        "name": "Espeto de Ouro",
+        "image": "https://www.pracadopapa.com.br/wp-content/uploads/2022/01/Melhores-Restaurantes-de-Belo-Horizonte.jpg",
+        "price": 3,
+        "description": "Restaurante localizado no centro de Belo Horizonte, com atendimento ótimo e pratos melhores ainda.",
+        "categories": [5],
+        "address": "Rua das Margaridas, 110, Bairro Alvorada",
+        "rating": 0,
+        "comments": [],
+        "menu": "menu_sample.pdf"
+    }
+}

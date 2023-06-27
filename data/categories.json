@@ -1,0 +1,30 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Vegano"
+    },
+    "2": {
+        "id": 2,
+        "name": "Sem lactose"
+    },
+    "3": {
+        "id": 3,
+        "name": "Vegetariano"
+    },
+    "4": {
+        "id": 4,
+        "name": "Sem glúten"
+    },
+    "5": {
+        "id": 5,
+        "name": "Pesco-vegetariano"
+    },
+    "6": {
+        "id": 6,
+        "name": "Sem alguma coisa"
+    },
+    "7": {
+        "id": 7,
+        "name": "Sem outra coisa"
+    }
+}
